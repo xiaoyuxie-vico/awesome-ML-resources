@@ -1,2 +1,2 @@
-# awesome-ML-resources
+# Awesome ML resources
 ML resources
